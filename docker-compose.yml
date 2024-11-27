@@ -1,0 +1,6 @@
+version: '3'
+services:
+        container_pipe:
+                image: task-pipe
+                container_name: container-pipe
+                
